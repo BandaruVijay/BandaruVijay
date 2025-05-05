@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @BandaruVijay
+- 👋 Hi, I’m @BandaruVijayKumar
 - 👀 I’m interested in Cloud and DevOpd Engineer/Solutions Architect
 - 🌱 I’m currently learning pipelines and command
-- 💞️ I’m looking to collaborate on MNC Companies
+- 💞️ I’m looking to fresher job on MNC Companies/Startups
 - 📫 How to reach me bandaruvijay901@gmail.com
-- 😄 Pronouns: English, Hindi, Telugu
-- ⚡ Fun fact: As a fresher to Creack the DevOps Job
-
-<!---
-BandaruVijay/BandaruVijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: "I write Python like it's my second language!"
