@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BandaruVijayKumar
-- 👀 I’m interested in Cloud and DevOpd Engineer/Solutions Architect
-- 🌱 I’m currently learning pipelines and command
+- 👀 I’m interested in Data analyst gathers, cleans, interprets, and visualizes data
+- 🌱 I’m currently doing an Intership on SKYIIX
 - 💞️ I’m looking to fresher job on MNC'S/Startups
 - 📫 How to reach me bandaruvijay901@gmail.com
 - 😄 Pronouns: He/Him
