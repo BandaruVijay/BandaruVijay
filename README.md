@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BandaruVijayKumar
-- 👀 I’m interested in Data analyst gathers, cleans, interprets, and visualizes data
+- 👀 I’m interested in full stack developer
 - 🌱 I’m currently doing an Intership on SKYIIX
 - 💞️ I’m looking to fresher job on MNC'S/Startups
 - 📫 How to reach me bandaruvijay901@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "I write Python like it's my second language!"
+- ⚡ Fun fact: "I write Angular like it's my second language!"
