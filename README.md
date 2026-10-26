@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BandaruVijayKumar
 - 👀 I’m interested in full stack developer
-- 🌱 I’m currently doing an Intership on SKYIIX
-- 💞️ I’m looking to fresher job on MNC'S/Startups
+- 🌱 I’m currently doing an Fulltime job in Dwelledge PVT limited
 - 📫 How to reach me bandaruvijay901@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I write Angular like it's my second language!"
